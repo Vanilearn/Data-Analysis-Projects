@@ -18,7 +18,8 @@ Data Visualization: Charts, graphs, and pivot charts created in Excel for better
 
 **Project Files**
 
-**Excel Project Dataset:** The original dataset used for the analysis. Excel Workbook: Contains the cleaned data, pivot tables, visualizations, and dashboard. 
+1.Bike purchase Excel Project.xls : The original dataset used for the analysis,Contains the cleaned data, pivot tables, visualizations, and dashboard. 
+2. Bike Sales Dashboard.jpg : Contains the dashboard for Bike Sales data analysis. 
 
 How to Use
 Download the Excel workbook from the repository. Open the file and explore the various sheets.
